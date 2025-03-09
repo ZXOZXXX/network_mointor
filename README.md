@@ -1,6 +1,3 @@
-Here's a polished and professional **README.md** for your **Network Monitoring Tool**:  
-
----
 
 # 📡 Network Monitoring Tool
 
