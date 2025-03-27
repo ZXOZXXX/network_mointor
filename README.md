@@ -1,5 +1,5 @@
 
-# 📡 Network Monitoring Tool
+# 📡 Network Monitoring Tool(Threat Hunting)
 
 ## 🚀 Overview
 The **Network Monitoring Tool** is a Python-based application designed to monitor network traffic, scan devices, and visualize network data. It is built using powerful libraries like **Scapy** for network analysis and **Pygame** for an interactive user interface (UI).  
